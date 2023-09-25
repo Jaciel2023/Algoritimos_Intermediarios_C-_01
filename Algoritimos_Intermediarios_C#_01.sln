@@ -5,13 +5,15 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritimos_Intermediarios_C#_01", "Algoritimos_Intermediarios_C#_01\Algoritimos_Intermediarios_C#_01.csproj", "{6440020D-B1D8-4C0E-9105-D5DB526ECEB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimo_Intermediarios_C#_02", "Algoritimo_Intermediarios_C#_02\Algoritimo_Intermediarios_C#_02.csproj", "{3846FE3B-AAA7-48B2-AF91-0D1F5531AF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritimo_Intermediarios_C#_02", "Algoritimo_Intermediarios_C#_02\Algoritimo_Intermediarios_C#_02.csproj", "{3846FE3B-AAA7-48B2-AF91-0D1F5531AF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimo_Intermediarios_C#_03", "Algoritimo_Intermediarios_C#_03\Algoritimo_Intermediarios_C#_03.csproj", "{573773B9-C2F4-44CD-840C-F5BFB3F5796C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritimo_Intermediarios_C#_03", "Algoritimo_Intermediarios_C#_03\Algoritimo_Intermediarios_C#_03.csproj", "{573773B9-C2F4-44CD-840C-F5BFB3F5796C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimo_Intermediario_C#_04", "Algoritimo_Intermediario_C#_04\Algoritimo_Intermediario_C#_04.csproj", "{52EFC32F-59AA-4EA3-8BED-31B840D6EEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritimo_Intermediario_C#_04", "Algoritimo_Intermediario_C#_04\Algoritimo_Intermediario_C#_04.csproj", "{52EFC32F-59AA-4EA3-8BED-31B840D6EEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimo_Intermediario_C#_05", "Algoritimo_Intermediario_C#_05\Algoritimo_Intermediario_C#_05.csproj", "{E75AC0E9-CFB4-401F-86A5-CB634231A380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritimo_Intermediario_C#_05", "Algoritimo_Intermediario_C#_05\Algoritimo_Intermediario_C#_05.csproj", "{E75AC0E9-CFB4-401F-86A5-CB634231A380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimos_Intermediario_C#_07", "Algoritimos_Intermediario_C#_07\Algoritimos_Intermediario_C#_07.csproj", "{F98F2AEB-36B5-44D0-82BA-584D9A9A35F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E75AC0E9-CFB4-401F-86A5-CB634231A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E75AC0E9-CFB4-401F-86A5-CB634231A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75AC0E9-CFB4-401F-86A5-CB634231A380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98F2AEB-36B5-44D0-82BA-584D9A9A35F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98F2AEB-36B5-44D0-82BA-584D9A9A35F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98F2AEB-36B5-44D0-82BA-584D9A9A35F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98F2AEB-36B5-44D0-82BA-584D9A9A35F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
